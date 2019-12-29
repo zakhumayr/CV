@@ -529,12 +529,11 @@ img {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   text-align: center;
-  
 }
 
 #contact-b h1 {
   text-align: center;
-  font-size: 10rem;
+  font-size: 8rem;
 }
 
 #main-footer {
